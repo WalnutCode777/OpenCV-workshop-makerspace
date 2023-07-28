@@ -1,0 +1,5 @@
+{
+  "python.analysis.extraPaths": [
+    "/Users/user/AppData/Local/Programs/Python/Python310/Lib/site-packages/dlib"
+  ]
+}
